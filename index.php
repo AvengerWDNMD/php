@@ -1,6 +1,6 @@
-<！DOCTYPE html >
-< html >
-<身体>
+<!DOCTYPE html>
+<html>
+<body>
 
 < h1 > 11班网站暂时关闭</ h1 >
 
@@ -24,5 +24,5 @@ $ SUB2 =小区（（ $时间3 - $时间1）/ 86400）;
 echo  “距离高考还有$ sub2”。“天！”。'<br>' ;
 ？>
 
-</ body >
-</ html >
+</body>
+</html>
